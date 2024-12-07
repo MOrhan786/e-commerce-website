@@ -101,7 +101,7 @@ export default function SignUpForm() {
               <div className="flex items-center justify-center space-x-4 text-base">
                 <span className="text-black/70">Already have account?</span>
                 <Link
-                  href="#"
+                  href="/SignIn"
                   className="text-black/70 hover:text-black font-medium border-b border-black/50"
                 >
                   Log in
