@@ -1,4 +1,3 @@
-
 import RedHeading from './redHeading'
 import Image from 'next/image'
 import Link from 'next/link'
@@ -66,7 +65,7 @@ function feature() {
             <div className="absolute top-1/2 -translate-y-1/2 left-6 z-10">
               <div className="space-y-4">
                 <div className="space-y-4">
-                  <h2 className="text-2xl font-semibold tracking-wide text-white">Women's Collections</h2>
+                  <h2 className="text-2xl font-semibold tracking-wide text-white">Women&apos;s Collections</h2>
                   <p className="text-sm text-white/90 max-w-[255px]">
                     Featured woman collections that give you another vibe.
                   </p>

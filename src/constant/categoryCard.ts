@@ -31,3 +31,5 @@ export const categoryCard = [
       isActive: false,
     },
   ]
+
+ 

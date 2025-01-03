@@ -1,14 +1,9 @@
 import React from "react";
 import RedHeading from "./redHeading";
-import { ChevronLeft, ChevronRight, Eye, Heart, Star, Trash2,  } from "lucide-react";
+import { ChevronLeft, ChevronRight,  } from "lucide-react";
 import { Button } from "./ui/button";
-// import { Card } from "./ui/card";
-// import Image from "next/image";
-// import { Badge } from "./ui/badge";
-
-
 import ProductCard from "./productCard";
-import { FlashCard, flashCard } from "@/constant/flashCard";
+import { flashCard } from "@/constant/flashCard";
 function FlashSale() {
   return (
     <>
