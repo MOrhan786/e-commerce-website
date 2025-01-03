@@ -26,11 +26,11 @@ function Month() {
 
         {/* picture */}
         <div className="  mt-[140px] ">
-          <Image src={"/image/jbg.png"}
+          <Image src={"/image/p-1.jpg"}
            alt={"image"}
            width={1170}
            height={500}
-           
+           className="rounded-lg"
            ></Image>
         </div>
       </section>

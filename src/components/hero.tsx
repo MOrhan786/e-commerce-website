@@ -25,7 +25,9 @@ function Hero() {
 
         {/* pic */}
         <div className=" mt-[40px] relative">
-          <Image src="\image\hero-img.svg" width={892} height={344} alt="mobile" ></Image>
+          <Image src="/image/hero-img.jpg" width={892} height={344} alt="mobile"
+          className=" rounded-lg"
+          ></Image>
         </div>
 
       </section>
